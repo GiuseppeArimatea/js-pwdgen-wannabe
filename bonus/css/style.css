@@ -1,0 +1,39 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+#nome {
+  font-size: 30px;
+  height: 100px;
+  background-color: green;
+  color: black;
+  text-align: center;
+  line-height: 100px;
+}
+
+#cognome{
+  font-size: 30px;
+  text-align: center;
+  height: 100px;
+  background-color: red;
+  color: black;
+  line-height: 100px;
+}
+
+#colore {
+  font-size: 30px;
+  height: 100px;
+  background-color: yellow;
+  color: black;
+  text-align: center;
+  line-height: 100px;
+}
+
+#tutto-insieme {
+  font-size: 30px;
+  height: 100px;
+  background-color: blue;
+  text-align: center;
+  line-height: 100px;
+}
